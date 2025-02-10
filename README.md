@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gmoulk/gmoulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Grigoris Moulkiotis (gmoulk)
+Software engineer at **[Intracom-Telecom](https://www.intracom-telecom.com/)** and M.S. student at **[University of Athens](https://www.di.uoa.gr/cs)**
+
+### Interests
+ - Software Engineering
+ - Big data Systems
+ - AI
+ - Systems Security
+
+### Education
+ - Currently enrolled in M.S. in Computer Science(Specialization AI)
+ - B.S. in Computer Science
