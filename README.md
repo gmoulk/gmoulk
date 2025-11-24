@@ -17,7 +17,7 @@ Software engineer at **[Intracom-Telecom](https://www.intracom-telecom.com/)** a
 
 ### Interests
  - Software Engineering
- - Big data Systems
+ - Database Systems
  - AI
  - Systems Security
 
