@@ -23,4 +23,4 @@ Software engineer at **[Intracom-Telecom](https://www.intracom-telecom.com/)** a
 
 ### Education
  - Currently enrolled in M.S. in Computer Science(Specialization AI)
- - B.S. in Computer Science
+ - B.S. in Informatics and Telecommunicatons
